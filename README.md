@@ -1,4 +1,4 @@
-## Github User Search with API
+## Github
 
 Febri Dwi Kurniawan
 18.12.0778
