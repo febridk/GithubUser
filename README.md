@@ -1,4 +1,3 @@
-## Github
-
-Febri Dwi Kurniawan
-18.12.0778
+```
+diganti dulu ya slurd jgn langsung upload, id aplikasine sama ntar 🤏
+```
