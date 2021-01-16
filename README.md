@@ -1,6 +1,4 @@
 ## Github User Search with API
 
-```bash
-🙋‍♂️ Febri Dwi Kurniawan
-✍ 18.12.0778
-```
+Febri Dwi Kurniawan
+18.12.0778
